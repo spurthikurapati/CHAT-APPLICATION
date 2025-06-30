@@ -226,7 +226,6 @@ This project can be easily extended to include:
 3. Interact with the chat and toggle themes to see the UI adapt.
 4. Modify the JavaScript to add new responses or themes.
 
----
 
 ## 🙌 Conclusion
 
@@ -234,7 +233,8 @@ This project can be easily extended to include:
 
 This project shows that even without frameworks or libraries, you can build compelling, dynamic UIs using core web technologies. It’s a great stepping stone toward building more advanced real-time applications.
 
-
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/47afb1c5-fe6d-415e-8fdc-f919eb742359)
 
 
 
