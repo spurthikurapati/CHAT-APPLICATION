@@ -1,4 +1,4 @@
-#CHAT-APPLICATION
+## CHAT-APPLICATION
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR:NEELA SANTOSH
 
-##DESCRIPTION OF TASK
+## DESCRIPTION OF TASK
 Sure! Here's a **detailed README** file (500+ words) for your **CodTech Chat** project, including an **Overview, Description, Features, Tools, and Technologies** section, suitable for GitHub or documentation.
 
 ---
